@@ -22,3 +22,9 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Samples
+
+![Sample 1](samples/sample1.png?raw=true "Login view")
+
+![Sample 2](samples/sample2.png?raw=true "Chat view")
